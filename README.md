@@ -2,7 +2,7 @@
 
 Module 4 Challenge
 
-Code Help
+Code Help</p>
 I used Xpert for help with code on calculating average test scores per school, in Cell 14.
 per_school_math = school_df.groupby("school_name")["math_score"].mean()
 per_school_reading = school_df.groupby("school_name")["reading_score"].mean()
